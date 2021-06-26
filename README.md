@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning <strong>Plotly 📊📊 and R 📈📈</strong>
 - 🔍 I’m looking to collaborate on <strong>Anything Projects</strong>
 - 💬 Ask me about <strong>Data Structures in C++, Java, OOP, Graphic Designing (Canva), Machine learning and Data science</strong>
-- ⚡ Fun fact: I'm a video game Aficionado. <img src="https://i.gifer.com/3zJ.gif" width="50" height="50">
+- ⚡ Fun fact: 👾 I'm a video game Aficionado 👾.
 
 <h2><img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" height="40"> My Socials</h2>
 <p>
@@ -16,7 +16,8 @@
   <a href="https://www.facebook.com/mcmpresto/" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Facebook-0e76a8?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 </p>
 
-### Tools I work with : 🛠
+### <img src="
+https://tenor.com/view/programmers-go-internet-technologists-researching-technologist-gif-3757206632821927062" height="40"> Tools I work with :
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> <img src="http://img.shields.io/badge/-SQL-FFFFFF?style=for-the-badge&logo=Mysql&logoColor=blue">
 <!--
