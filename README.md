@@ -1,6 +1,6 @@
-### Hi there <img src="https://media.tenor.com/images/463043059b182f7632e44035867c87f2/tenor.gif" height="40">
+### Hi there <img src="https://media.tenor.com/images/463043059b182f7632e44035867c87f2/tenor.gif" height="120">
 
-<h2><img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" height="40"> My Socials</h2>
+<h2><img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" height="30" width="50"> My Socials</h2>
 <p>
   <a href="mailto:mcmpresto25@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/macario-lou-presto-30812313b/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
