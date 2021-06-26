@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning <strong>Plotly 📊📊 and R 📈📈</strong>
 - 🔍 I’m looking to collaborate on <strong>Anything Projects</strong>
 - 💬 Ask me about <strong>Data Structures in C++, Java, OOP, Graphic Designing (Canva), Machine learning and Data science</strong>
-- ⚡ Fun fact: I'm a video game Aficionado. <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fpacman&psig=AOvVaw1CL8WKWappiUOuSgBE-Lff&ust=1624795618546000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMiU49OatfECFQAAAAAdAAAAABAa" width="50" height="50">
+- ⚡ Fun fact: I'm a video game Aficionado. <img src="https://i.gifer.com/3zJ.gif" width="50" height="50">
 
 <h2><img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" height="40"> My Socials</h2>
 <p>
