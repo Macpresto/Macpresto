@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
+<p>
+  <a href="mailto:mcmpresto25@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/macario-lou-presto-30812313b/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/presto_creams/" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+</p>
+
 <!--
 **Macpresto/Macpresto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
