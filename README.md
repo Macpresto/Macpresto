@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://tenor.com/bjtmf.gif" height="40">
 
 <h2><img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" height="40"> My Socials</h2>
 <p>
