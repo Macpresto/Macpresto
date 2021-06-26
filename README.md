@@ -1,5 +1,13 @@
 ## Hi there, I'm Macario <img src="https://media.tenor.com/images/463043059b182f7632e44035867c87f2/tenor.gif" height="80">
 
+### Just me:
+
+- 🔭 I’m currently working on my <strong>Thesis 📚</strong>
+- 🌱 I’m currently learning <strong>Plotly 📊📊 and R 📈📈</strong>
+- 🔍 I’m looking to collaborate on <strong>Anything Projects</strong>
+- 💬 Ask me about <strong>Data Structures in C++, Java, OOP, Graphic Designing (Canva), Machine learning and Data science</strong>
+- ⚡ Fun fact: I'm a video game Aficionado. <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50">
+
 <h2><img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" height="40"> My Socials</h2>
 <p>
   <a href="mailto:mcmpresto25@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
