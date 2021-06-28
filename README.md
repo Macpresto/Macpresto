@@ -22,9 +22,9 @@
 
 
 <h2>My hobbies <img src="https://media.giphy.com/media/jxJjBMvqEvMSA/giphy.gif" height="40"> </h2>
-- - Gaming
-- - Music
-- - Movies
+- Gaming
+- Music
+- Movies
 
 <!--
 **Macpresto/Macpresto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
