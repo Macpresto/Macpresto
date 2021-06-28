@@ -22,6 +22,7 @@
 
 
 <h2>My hobbies <img src="https://media.giphy.com/media/jxJjBMvqEvMSA/giphy.gif" height="40"> </h2>
+
 - Gaming
 - Music
 - Movies
