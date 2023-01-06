@@ -2,9 +2,9 @@
 
 ### Just me:
 
-- 🔭 I’m currently working on my <strong>Thesis 📚</strong>
-- 🌱 I’m currently learning <strong>Plotly 📊📊 and R 📈📈</strong>
-- 🔍 I’m looking to collaborate on <strong>Anything Projects</strong>
+- 🔭 I’m currently open for <strong> employment </strong>
+- 🌱 I’m currently learning <strong> react </strong>
+- 🔍 I’m looking to collaborate on <strong>Any Projects</strong>
 - 💬 Ask me about <strong>Data Structures in C++, Java, OOP, Graphic Designing (Canva), Machine learning and Data science</strong>
 - ⚡ Fun fact: 👾 I'm a video game Aficionado 👾.
 
