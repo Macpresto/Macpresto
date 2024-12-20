@@ -1,12 +1,6 @@
 ## Hi there, I'm Macario <img src="https://media.tenor.com/images/463043059b182f7632e44035867c87f2/tenor.gif" height="80">
 
-### Just me:
 
-- 🔭 I’m currently open for <strong> employment </strong>
-- 🌱 I’m currently learning <strong> react </strong>
-- 🔍 I’m looking to collaborate on <strong>Any Projects</strong>
-- 💬 Ask me about <strong>Data Structures in C++, Java, OOP, Graphic Designing (Canva), Machine learning and Data science</strong>
-- ⚡ Fun fact: 👾 I'm a video game Aficionado 👾.
 
 <h2><img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" height="40"> My Socials</h2>
 <p>
